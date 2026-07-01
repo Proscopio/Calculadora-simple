@@ -1,0 +1,14 @@
+C:\Users\prosc\CalculadoraTP\bin\Debug\net10.0\CalculadoraTP.exe
+C:\Users\prosc\CalculadoraTP\bin\Debug\net10.0\CalculadoraTP.deps.json
+C:\Users\prosc\CalculadoraTP\bin\Debug\net10.0\CalculadoraTP.runtimeconfig.json
+C:\Users\prosc\CalculadoraTP\bin\Debug\net10.0\CalculadoraTP.dll
+C:\Users\prosc\CalculadoraTP\bin\Debug\net10.0\CalculadoraTP.pdb
+C:\Users\prosc\CalculadoraTP\obj\Debug\net10.0\CalculadoraTP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\prosc\CalculadoraTP\obj\Debug\net10.0\CalculadoraTP.AssemblyInfoInputs.cache
+C:\Users\prosc\CalculadoraTP\obj\Debug\net10.0\CalculadoraTP.AssemblyInfo.cs
+C:\Users\prosc\CalculadoraTP\obj\Debug\net10.0\CalculadoraTP.csproj.CoreCompileInputs.cache
+C:\Users\prosc\CalculadoraTP\obj\Debug\net10.0\CalculadoraTP.dll
+C:\Users\prosc\CalculadoraTP\obj\Debug\net10.0\refint\CalculadoraTP.dll
+C:\Users\prosc\CalculadoraTP\obj\Debug\net10.0\CalculadoraTP.pdb
+C:\Users\prosc\CalculadoraTP\obj\Debug\net10.0\CalculadoraTP.genruntimeconfig.cache
+C:\Users\prosc\CalculadoraTP\obj\Debug\net10.0\ref\CalculadoraTP.dll
